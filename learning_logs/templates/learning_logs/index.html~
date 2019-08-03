@@ -1,5 +1,0 @@
-{% extends 'learning_logs/base.html' %}
-
-{% block content %}
-<p>学习日志可以帮助您跟踪您正在学习的任何主题的学习情况。</p>
-{% endblock content %}
